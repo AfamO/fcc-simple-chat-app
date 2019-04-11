@@ -1,11 +1,9 @@
 {
-	"//1": "describes your app and its dependencies",
-	"//2": "https://docs.npmjs.com/files/package.json",
-	"//3": "updating this file will download and update your packages",
-	"name": "FCC-Advanced-Node-and-Express",
-	"author": "http://github.com/JosephLivengood",
+	
+	"name": "fcc simple-chat-app",
+	"author": "http://github.com/AfamO",
 	"version": "0.0.1",
-	"description": "What am I about?",
+	"description": "A chat app that explores advanced express concepts like socket.io, oauth/social authentication, passport, template engine,etc.?",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
